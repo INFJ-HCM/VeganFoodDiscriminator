@@ -1,2 +1,4 @@
-# VeganFoodDiscriminator
-CBNU 졸업작품 연구과제 "비건 식품 판별기"
+# android-tesseract-demo
+Demo project file that is using tesseract ocr in android
+
+![](https://junyoung-jamong.github.io/assets/image/how_to_use_tesseract_in_android/gif_01.gif)
